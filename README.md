@@ -6,18 +6,19 @@ This is a full-stack real-time web application built using Node.js.
 
 You might need the following installation packages to run the front-end of theis app.
 
-  To set up the development environment
-      npm create vite@latest
+To set up the development environment
 
-   cd frontend
+    npm create vite@latest
+
+    cd frontend
    
-   npm install
+    npm install
    
-   npm install axios
+    npm install axios
    
-   npm i react-chat-engine-advanced
+    npm i react-chat-engine-advanced
    
-   npm install react-chat-engine-pretty
+    npm install react-chat-engine-pretty
 
 To view your app
     
